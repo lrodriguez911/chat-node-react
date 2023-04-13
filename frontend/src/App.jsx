@@ -2,8 +2,8 @@ import { useState } from 'react'
 import './App.css'
 
 
-import AuthPage from "./AuthPage";
-import ChatsPage from "./ChatsPage";
+import AuthPage from "./components/AuthPage";
+import ChatsPage from "./components/ChatsPage";
 
 
 function App() {
